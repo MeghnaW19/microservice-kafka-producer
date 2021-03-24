@@ -1,0 +1,9 @@
+{
+  "workflow": "OpenJDK11SpringMySQLApp",
+  "scores": {
+    "commanderTests":50,
+    "cadetTests":40,
+    "pmd":10
+  }
+}
+
